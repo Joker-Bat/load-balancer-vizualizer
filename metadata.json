@@ -1,0 +1,5 @@
+{
+  "name": "LoadBalancer Viz",
+  "description": "Interactive Load Balancer visualization tool using React Spring and Zustand to demonstrate Round Robin, Least Connections, and Random algorithms.",
+  "requestFramePermissions": []
+}
